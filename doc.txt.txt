@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 outra modificacao
+=======
+teste editar
+>>>>>>> 935a4cdf09036f49c3d43160a3e4236b9d6f53a2
